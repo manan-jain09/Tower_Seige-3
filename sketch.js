@@ -23,40 +23,40 @@ function setup(){
     block4 = new Block(width / 2 + 510,height / 2 - 50,70,70);
     block5 = new Block(width / 2 + 580,height / 2 - 50,70,70);
 
-    block6 = new Block(width / 2 + 340,height / 2 - 150,70,70);
-    block7 = new Block(width / 2 + 410,height / 2 - 150,70,70);
-    block8 =  new Block(width / 2 + 480,height / 2 - 150,70,70);
-    block9 = new Block(width / 2 + 550,height / 2 - 150,70,70);
+    block6 = new Block(width / 2 + 340,height / 2 - 100,70,70);
+    block7 = new Block(width / 2 + 410,height / 2 - 100,70,70);
+    block8 =  new Block(width / 2 + 480,height / 2 - 100,70,70);
+    block9 = new Block(width / 2 + 550,height / 2 - 100,70,70);
 
-    block10 = new Block(width / 2 + 380,height / 2 - 250,70,70);
-    block11 = new Block(width / 2 + 450,height / 2 - 250,70,70);
-    block12 = new Block(width / 2 + 520,height / 2 - 250,70,70);
+    block10 = new Block(width / 2 + 380,height / 2 - 150,70,70);
+    block11 = new Block(width / 2 + 450,height / 2 - 150,70,70);
+    block12 = new Block(width / 2 + 520,height / 2 - 150,70,70);
 
-    block13 = new Block(width / 2 + 440,height / 2 - 300,70,70);
-    block14 = new Block(width / 2 + 510,height / 2 - 300,70,70);
+    block13 = new Block(width / 2 + 440,height / 2 - 200,70,70);
+    block14 = new Block(width / 2 + 510,height / 2 - 200,70,70);
 
-    block15 = new Block(width / 2 + 480,height / 2 - 500,70,70);
+    block15 = new Block(width / 2 + 480,height / 2 - 250,70,70);
 
     
-    block16 = new Block(width / 2 - 50, height / 2 + 150,70,70);
-    block17 = new Block(width / 2 - 50 + 70,height / 2 + 150,70,70);
-    block18 = new Block(width / 2 - 50 - 70,height / 2 + 150,70,70);
-    block19 = new Block(width / 2 - 50 + 140,height / 2 + 150,70,70);
-    block20 = new Block(width / 2 - 50 - 140,height / 2 + 150,70,70);
+    block16 = new Block(width / 2 - 50, height / 2 + 200,70,70);
+    block17 = new Block(width / 2 - 50 + 70,height / 2 + 200,70,70);
+    block18 = new Block(width / 2 - 50 - 70,height / 2 + 200,70,70);
+    block19 = new Block(width / 2 - 50 + 140,height / 2 + 200,70,70);
+    block20 = new Block(width / 2 - 50 - 140,height / 2 + 200,70,70);
 
-    block21 = new Block(width / 2 - 155 ,height / 2 + 100,70,70);
-    block22 = new Block(width / 2 - 90,height / 2 + 100,70,70);
-    block23 =  new Block(width / 2 - 30,height / 2 + 100,70,70);
-    block24 = new Block(width / 2 + 60,height / 2 + 100,70,70);
+    block21 = new Block(width / 2 - 155 ,height / 2 + 150,70,70);
+    block22 = new Block(width / 2 - 90,height / 2 + 150,70,70);
+    block23 =  new Block(width / 2 - 30,height / 2 + 150,70,70);
+    block24 = new Block(width / 2 + 60,height / 2 + 150,70,70);
 
-    block25 = new Block(width / 2 + 20,height / 2 + 50,70,70);
-    block26 = new Block(width / 2 - 50,height / 2 + 50,70,70);
-    block27 = new Block(width / 2 - 120,height / 2 +50,70,70);
+    block25 = new Block(width / 2 + 20,height / 2 + 100,70,70);
+    block26 = new Block(width / 2 - 50,height / 2 + 100,70,70);
+    block27 = new Block(width / 2 - 120,height / 2 +100,70,70);
 
-    block28 = new Block(width / 2 - 95,height / 2,70,70);
-    block29 = new Block(width / 2 - 25,height / 2,70,70);
+    block28 = new Block(width / 2 - 95,height / 2 + 50,70,70);
+    block29 = new Block(width / 2 - 25,height / 2 + 50,70,70);
 
-    block30 = new Block(width / 2 - 60,height / 2 - 70,70,70);
+    block30 = new Block(width / 2 - 60,height / 2 - 50,70,70);
     
     polygon = new Hexagon(150,50);
 
